@@ -1,2 +1,2 @@
 # simpleRPC
-simple RPC impleted by Java.
+simple RPC implemented by Java.
