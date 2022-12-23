@@ -1,7 +1,7 @@
 package com.zjw.rpc.core.client;
 
-import rpc.tomstillcoding.com.core.rpc_protocol.RpcRequest;
-import rpc.tomstillcoding.com.core.rpc_protocol.RpcResponse;
+import com.zjw.rpc.core.rpc_protocol.RpcRequest;
+import com.zjw.rpc.core.rpc_protocol.RpcResponse;
 
 import java.io.IOException;
 import java.io.ObjectInputStream;

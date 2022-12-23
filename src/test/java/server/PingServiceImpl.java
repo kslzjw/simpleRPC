@@ -1,8 +1,8 @@
 package server;
 
-import rpc.tomstillcoding.com.IDL.Ping.PingRequest;
-import rpc.tomstillcoding.com.IDL.Ping.PingResponse;
-import rpc.tomstillcoding.com.IDL.Ping.PingService;
+import com.zjw.rpc.idl.Ping.PingRequest;
+import com.zjw.rpc.idl.Ping.PingResponse;
+import com.zjw.rpc.idl.Ping.PingService;
 
 public class PingServiceImpl implements PingService {
 

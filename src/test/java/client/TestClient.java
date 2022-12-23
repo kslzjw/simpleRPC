@@ -1,9 +1,9 @@
 package client;
 
-import rpc.tomstillcoding.com.IDL.Hello.HelloRequest;
-import rpc.tomstillcoding.com.IDL.Hello.HelloResponse;
-import rpc.tomstillcoding.com.IDL.Hello.HelloService;
-import rpc.tomstillcoding.com.core.client.RpcClientProxy;
+import com.zjw.rpc.idl.Hello.HelloRequest;
+import com.zjw.rpc.idl.Hello.HelloResponse;
+import com.zjw.rpc.idl.Hello.HelloService;
+import com.zjw.rpc.core.client.RpcClientProxy;
 
 public class TestClient {
     public static void main(String[] args) {
