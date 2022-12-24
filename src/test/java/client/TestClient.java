@@ -24,11 +24,5 @@ public class TestClient {
         String hiMsg = hiResponse.getMsg();
         System.out.println(hiMsg);
 
-        // 调用ping方法
-//        PingService pingService = proxy.getService(PingService.class);
-//        PingRequest pingRequest = new PingRequest("tom");
-//        PingResponse pingResponse = pingService.ping(pingRequest);
-//        String pingMsg = pingResponse.getMsg();
-//        System.out.println(pingMsg);
     }
 }
